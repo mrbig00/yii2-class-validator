@@ -1,0 +1,17 @@
+{
+    "name": "mrbig00/yii2-class-validator",
+    "description": "This validator test if an object (instance) is a subtype of a given class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zoltan Szanto",
+            "email": "mrbig00@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
